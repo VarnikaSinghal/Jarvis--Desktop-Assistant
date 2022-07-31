@@ -26,6 +26,6 @@
 7. pip install wikipedia 
 8. pip install pyjokes 
 9. pip install bs4 
-10.pip install pyautogui
+10.pip install pyautogui 
 11. pillow library 
  
