@@ -1,4 +1,4 @@
-# Personal--Desktop-Assistant
+# Personal Desktop-Assistant
 
 1. This application is developed in Python and has a interacting  and amazing GUI.   
 2. It is possible to complete with the help of different API's.    
@@ -14,3 +14,18 @@
 3. It can tell current location, current Battery Percentage.
 4. Can capture images, Screenshots, and can show the photos according to the User's needs.
 5. Can perform Calculations, and it has cooking mode also, for telling how to make recipes.
+
+# Requirements
+
+1. Python   
+2. pip install pyttsx3  
+3. pip install SpeechRecognition  
+4. pip install PyAudio  
+5. pip install psutil  
+6. pip install cv2 
+7. pip install wikipedia 
+8. pip install pyjokes 
+9. pip install bs4 
+10.pip install pyautogui
+11. pillow library 
+ 
