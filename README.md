@@ -18,15 +18,16 @@
 # Requirements
 
 1. Python installed.
-2. pip install pyttsx3  
-3. pip install SpeechRecognition  
-4. pip install PyAudio  
-5. pip install psutil  
-6. pip install cv2 
-7. pip install wikipedia 
-8. pip install pyjokes 
-9. pip install bs4     
+2. pip install pyAutogui  
+3. pip install pyttsx3  
+4. pip install SpeechRecognition  
+5. pip install PyAudio  
+6. pip install psutil  
+7. pip install cv2 
+8. pip install wikipedia 
+9. pip install pyjokes 
+10. pip install bs4     
 11. pillow library 
-12. and many modules.   
+12. and many modules also.   
 
  
