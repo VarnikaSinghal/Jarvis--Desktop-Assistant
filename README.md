@@ -25,8 +25,8 @@
 6. pip install cv2 
 7. pip install wikipedia 
 8. pip install pyjokes 
-9. pip install bs4    
-10.pip install pyautogui   
+9. pip install bs4     
 11. pillow library 
-12. and many modules.
+12. and many modules.   
+13.pip install pyautogui  
  
