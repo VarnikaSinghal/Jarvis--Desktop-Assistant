@@ -18,7 +18,7 @@
 # Requirements
 
 1. Python installed.
-2. pip install pyAutogui  
+2. pip install pyautogui  
 3. pip install pyttsx3  
 4. pip install SpeechRecognition  
 5. pip install PyAudio  
