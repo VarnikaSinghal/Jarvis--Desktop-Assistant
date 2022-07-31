@@ -17,7 +17,7 @@
 
 # Requirements
 
-1. Python   
+1. Python installed.
 2. pip install pyttsx3  
 3. pip install SpeechRecognition  
 4. pip install PyAudio  
