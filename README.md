@@ -28,5 +28,5 @@
 9. pip install bs4     
 11. pillow library 
 12. and many modules.   
-13.pip install pyautogui  
+pip install pyautogui  
  
